@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+	<plugin path="lib/function.jar" class="function.DeleteData" />
+	<plugin path="lib/function.jar" class="function.Tokenization" />
+	<plugin path="lib/function.jar" class="function.SimpleVarianceData" />
+	<plugin path="lib/function.jar" class="function.HashData" />
+	<plugin path="lib/function.jar" class="function.SymmetricEncryptionData" />
+	<plugin path="lib/function.jar" class="function.BlurData" />
+	<plugin path="lib/function.jar" class="function.HiddenData" />
+	<plugin path="lib/function.jar" class="function.ObfuscationData" />
+	<plugin path="lib/function.jar" class="function.AgregationData" />
+	<plugin path="lib/function.jar" class="function.BlurData" />
+	<plugin path="lib/function.jar" class="function.MixingData" />
+	<plugin path="lib/function.jar" class="function.RandomVarianceData" />
+	<plugin path="lib/function.jar" class="function.SimpleVarianceData" />
+	<plugin path="lib/function.jar" class="function.SubArbitraryData" />
+	<plugin path="lib/function.jar" class="function.TemporisationData" />
+</plugins>
